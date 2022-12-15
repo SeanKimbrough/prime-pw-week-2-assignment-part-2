@@ -146,6 +146,9 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
+// fix colorOne = purple. The instructions say colorOne and colorTwo = 'purple'. 
+// It should read console.log( ' colorOne = purple and colorTwo =purple ' )
+
 if (mix === true) {
   colorOne = 'purple';
 }
