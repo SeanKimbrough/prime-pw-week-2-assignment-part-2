@@ -26,10 +26,13 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called name and set it to Dane
+// Then we check if Dane is an exact match to Mary then,
+// we would console.log 'Hi Mary!'
+// If Dane is not an exact match to Mary
+// We would console.log 'How do you do?'
+// We would console.log 'How do you do?' because Dane is not an exact match to Mary
+
 
 //CODE
 /*
