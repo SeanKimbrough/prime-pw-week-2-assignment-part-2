@@ -48,10 +48,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have a variable called secret
+//  We have a variable called code and set it to be 123
+//  If code is an exact match for 123, then secret would equal 'super' and code would equal 123 muliplied by 2
+// If code 123 is greater than 250 then the variable secret would equal 'duper'
+// then we would console.log(secret)
 
 //CODE
 /*
