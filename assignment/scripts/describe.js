@@ -74,10 +74,18 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have a variable isStudent that equals true
+// We have a variable age that we set to equal thirty-four
+// We have a variable zip that is set to number 55407
+// if isStudent is a absolutely true and 55407 is greater than 80000 then we 
+// would console.log 'You're a student on the West Coast!'
+// or else if isStudent is an exact match or 34 < 30 then
+// we would console.log(' What are your hobbies?' )
+// otherwise if isStudent is an exact match to true than
+//we would console.log(' Welcome to Prime')
+// if none of these conditions are true
+// We would console.log( ' How about the weather?')
+// We would console.log( 'Welcome to Prime!' because isStudent is true!)
 
 //CODE
 /*
